@@ -1,5 +1,3 @@
-# AuthVoterBlockchain
-
 # Registration and Authentication of voters for secure voting using Azure Blockchain
 
 The current picture of voter authentication for elections in major democracies across the world is one that faces several issues and vulnerabilities. Voter frauds such as fake IDs, duplicate votes, claims of voter database hacking, and rigging of elections are unfortunately ubiquitous news every election season. 
